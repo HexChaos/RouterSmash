@@ -1,5 +1,6 @@
 # RouterSmash
 A open source tool for automating Router Login-Page Discovery
+
 Created by HexChaos (https://hexchaos.xyz)
 
 ## Requirements
