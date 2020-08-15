@@ -1,6 +1,6 @@
 # RouterSmash
 A open source tool for automating Router Login-Page Discovery
-
+Created by HexChaos (https://hexchaos.xyz)
 
 ## Requirements
 
@@ -21,7 +21,7 @@ A open source tool for automating Router Login-Page Discovery
  * Add more Router Providers (as it currently covers the most common)
  * Adding ability to brute force discovered routers with their default credentials
  * Linux Version for those cool cats on Linux
-
+ * **We encourage anyone who wants to contribute to the project. Open Source FTW!
 ## Licence
 
 This Project is released under the GNU GPL Licence 3.0, you are welcome to modify the project, contribute here. However you cannot create closed sourced versions other than for sole use of yourself.
